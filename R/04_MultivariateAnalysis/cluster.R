@@ -1,0 +1,5 @@
+x <- read.table("StrengthFinder.txt")
+y <- dist(x)
+cluster <- hclust(y)
+summary(cluster)
+plot(cluster,main="StrengthFinderによるクラスター")

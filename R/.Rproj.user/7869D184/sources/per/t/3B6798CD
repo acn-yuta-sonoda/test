@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1542193683518.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4000873750",
+    "id" : "3B6798CD",
+    "lastKnownWriteTime" : 1542520074,
+    "last_content_update" : 1542520074322,
+    "path" : "C:/Users/yuta.sonoda/Desktop/Programming/R/Others/UnderstaingTimeSeriesAnalysisWithR.R",
+    "project_path" : "Others/UnderstaingTimeSeriesAnalysisWithR.R",
+    "properties" : {
+        "cursorPosition" : "211,27",
+        "scrollLine" : "199",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

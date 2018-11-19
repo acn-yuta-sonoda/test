@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1542169492926.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4144878071",
+    "id" : "68972050",
+    "lastKnownWriteTime" : 1542269213,
+    "last_content_update" : 1542269213107,
+    "path" : "C:/Users/yuta.sonoda/Desktop/Programming/R/05_BayesianStatistics/MCMC.R",
+    "project_path" : "05_BayesianStatistics/MCMC.R",
+    "properties" : {
+        "cursorPosition" : "9,14",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

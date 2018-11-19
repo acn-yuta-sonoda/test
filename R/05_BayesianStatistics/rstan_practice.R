@@ -9,8 +9,10 @@ set.seed(1019)
 library(rstan)
 library(dplyr)
 
+install.packages("rstan")
+
 # config
-SET_RESPOSITORY_PATH <- "C:/Users/yuta.sonoda/Desktop/Programming/R"
+SET_RESPOSITORY_PATH <- getwd()
 setwd(SET_RESPOSITORY_PATH)
 
 # data import

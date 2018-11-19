@@ -1,0 +1,7 @@
+data studentTest;
+	infile '/folders/myshortcuts/SAS/testdata2.csv' dsd;
+	input id japanese math english science sociology sum;
+
+proc princomp data=studentTest cov;
+	var japanese math english science sociology;
+run;

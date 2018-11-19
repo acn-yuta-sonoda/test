@@ -10,7 +10,7 @@ library(rstan)
 library(dplyr)
 
 # config
-SET_RESPOSITORY_PATH <- "C:/Users/yuta.sonoda/Desktop/Programming/R"
+SET_RESPOSITORY_PATH <- getwd()
 setwd(SET_RESPOSITORY_PATH)
 
 DATA_PATH <- "./../data/hb_trend_sample.txt"
